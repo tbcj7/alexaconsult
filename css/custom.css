@@ -75,7 +75,12 @@ body {
 	position: relative;
 }
 .block-2 {
-	background: url(../images/banner.jpg) no-repeat 50% transparent;
+	background: url(../images/banner2.jpg) no-repeat 50% transparent;
+	min-height: 353px;
+	position: relative;
+}
+.block-3 {
+	background: url(../images/banner3.jpg) no-repeat 50% transparent;
 	min-height: 353px;
 	position: relative;
 }
@@ -130,7 +135,7 @@ h2 {
 }
 
 .image-wrapper img {
-	max-width: 100%;
+	width: 100%;
 }
 .image-wrapper .overlay {
 	background: rgba(0, 0, 0, 0.6);
